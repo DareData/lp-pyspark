@@ -1,0 +1,6 @@
+# virtual environments
+**/venv/
+
+# data downloaded and produced by the final project notebooks
+04_final_project/movielens-data/
+04_final_project/curated/

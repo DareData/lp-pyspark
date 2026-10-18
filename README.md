@@ -9,7 +9,7 @@ This collection of modules is designed to help you learn how to work with Big Da
 
 1. **Spark Introduction**
 
-    Covers the basics of Apache Spark, including its architecture, key components, and the fundamentals of working with Spark to handle Big Data. Also introduces the Databricks environment and PySpark RDDs.
+    Covers the basics of Apache Spark, including its architecture, key components, and the fundamentals of working with Spark to handle Big Data.
 
 2. **PySpark DataFrames**
 
@@ -21,25 +21,22 @@ This collection of modules is designed to help you learn how to work with Big Da
 
 4. **Final Project**
 
-    A final project that brings together the concepts covered in the previous modules. You will work on a real-world dataset, applying your knowledge of Spark to analyze and derive insights from the data.
+    A final project that brings together the concepts covered in the previous modules. Over two weeks, you turn the raw MovieLens files into a curated dataset and then investigate it with window functions, complex data types and UDFs, ending with three open questions that you answer and explain in your own words.
 
-
-## Running Notebooks in Databricks Community Edition
-
-These notebooks are expected to be run in the **Databricks Community Edition**. Detailed steps to set up and configure your environment are provided within the notebooks. Follow these instructions to ensure you have the necessary setup to run the notebooks successfully.
+> **Note:** The original version of this Learning Pod ran on the **Databricks Community Edition**. That edition was retired and replaced by the Databricks Free Edition, which only offers serverless compute: you cannot create your own clusters, and the Spark RDD APIs used in the first modules are not supported. For these reasons the pod is now run locally with `pyspark`. The material was adapted to this setup and all the principles are kept the same: only the environment changes, not what you learn.
 
 ## Suggested learning calendar
 
-Week 01 (~3 hours): Spark Introduction
+Week 01: Spark Introduction
 
-Week 02 (~3 hours): PySpark DataFrames
+Week 02: PySpark DataFrames
 
-Week 03 (~3 hours): PySpark DataFrames
+Week 03: PySpark DataFrames
 
-Week 04 (~3 hours): PySpark Advanced
+Week 04: PySpark Advanced
 
-Week 05 (~3 hours): PySpark Advanced
+Week 05: PySpark Advanced
 
-Week 06(~3 hours): Final Project
+Week 06: Final Project
 
-Week 07(~3 hours): Final Project
+Week 07: Final Project

@@ -19,12 +19,6 @@ PySpark supports complex data types such as arrays, structs, and maps within its
 
 UDFs in PySpark enable custom transformations and computations that are not supported by built-in functions. They provide flexibility in processing data at row level, applying business logic, and performing specialized calculations. Pandas UDFs extend this functionality by allowing seamless integration with pandas DataFrames, improving performance for certain operations that benefit from pandas' rich ecosystem of libraries.
 
-## Running the Notebooks
-
-All notebooks in this module are designed to be run in the **Databricks Community Edition**. Detailed steps to set up and configure your environment are provided in the first module.
-
-If you need, go back to `2-Databricks-Environment` notebook in module `01_spark_intro` and follow the instructions there to ensure you have the necessary setup to run these notebooks successfully.
-
 ---
 
 Happy Learning!

@@ -21,12 +21,6 @@ To do so, you'll be looking into orders data from an e-commerce platform. You'll
     Explores more advanced operations on PySpark DataFrames, including grouping and aggregation, sorting and joining.
 
 
-## Running the Notebooks
-
-All notebooks in this module are designed to be run in the **Databricks Community Edition**. Detailed steps to set up and configure your environment are provided in the first module.
-
-If you need, go back to `2-Databricks-Environment` notebook in module `01_spark_intro` and follow the instructions there to ensure you have the necessary setup to run these notebooks successfully.
-
 ---
 
 Happy Learning!
